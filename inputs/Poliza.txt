@@ -2,8 +2,7 @@ El nombre de la poliza es: POLIZA DE SUBARU FLEXIBLE FORUM 24 MESES
 El deducible de la póliza es: Deducible 10 UF
 El concesionario de la póliza es: Indumotora One S.A.  -  Subaru Plaza Egaña
 
-Esta entidad aseguradora, en consideración a la propuesta presentada por el asegurado y a las
-condiciones particulares y generales que a continuación se acompañan, asegura lo siguiente:
+Esta entidad aseguradora, en consideración a la propuesta presentada por el asegurado y a las condiciones particulares y generales que a continuación se acompañan, asegura lo siguiente:
 
 Datos del corredor:
 ¿Quién es el Corredor?, ¿cuál es el Corredor?, Datos del Corredor?
@@ -154,36 +153,20 @@ Emisor de Factura:  INDUMOTORA ONE S.A.
 
 
 Rigen los siguientes deducibles obligatorios, aplicables en toda y cada pérdida:
-Cobertura
-Código Registro S.V.S.
-Deducible
-Daños Materiales
-POL 1 2013 0214
-UF 10,0
-Robo, hurto o uso no autorizado
-POL 1 2013 0214
-UF 10,0
-Robo Accesorios
-CAD 1 2013 0335
-UF 2,5
-Huelga y Terrorismo
-CAD 1 2013 0336
-UF 10,0
-Actos Maliciosos
-CAD 1 2013 0337
-UF 10,0
-Granizo
-CAD 1 2013 0339
-UF 10,0
-Riesgos de la Naturaleza
-CAD 1 2013 0338
-UF 10,0
-Sismo
-CAD 1 2013 0340
-UF 10,0
-Daños Materiales por la propia carga
-CAD 1 2013 0342
-UF 10,0
+¿Cuaés son los Deducibles?: 
+Los Deducibles de la póliza son:"Daños Materiales", "Robo, hurto o uso no autorizado", "Robo Accesorios", "Huelga y Terrorismo", "Actos Maliciosos", "Granizo", "Riesgos de la Naturaleza", "Sismo", "Daños Materiales por la propia carga".
+
+Cobertura Deducible Daños Materiales: "Daños Materiales", Código Registro S.V.S. (POL 1 2013 0214), Deducible UF 10,0
+Cobertura Deducible Robo, hurto o uso no autorizado: "Robo, hurto o uso no autorizado", Código Registro S.V.S. (POL 1 2013 0214), Deducible UF 10,0
+Cobertura Deducible Robo accesorios: "Robo Accesorios", Código Registro S.V.S. (CAD 1 2013 0335), Deducible UF 2,5
+Cobertura Deducible Huelga y Terrorismo: "Huelga y Terrorismo", Código Registro S.V.S. (CAD 1 2013 0336), Deducible UF 10,0
+Cobertura Deducible Actos maliciosos: "Actos Maliciosos", Código Registro S.V.S. (CAD 1 2013 0337), Deducible UF 10,0
+Cobertura Deducible Granizo: "Granizo", Código Registro S.V.S. (CAD 1 2013 0339), Deducible UF 10,0
+Cobertura Deducible Riesgo de la Naturaleza: "Riesgos de la Naturaleza", Código Registro S.V.S. (CAD 1 2013 0338), Deducible UF 10,0
+Cobertura Deducible Sismo: "Sismo", Código Registro S.V.S. (CAD 1 2013 0340), Deducible UF 10,0
+Cobertura Deducible Daños Materiales por la Propia Carga: "Daños Materiales por la propia carga", Código Registro S.V.S. (CAD 1 2013 0342), Deducible UF 10,0
+
+
 
 
 
@@ -695,3 +678,6 @@ pesos al día del pago efectivo. Las expresadas en otras monedas, se solucionar�
 moneda respectiva.
 Este Plan de Pagos forma parte integrante de las Condiciones Particulares de la póliza.
 Los cheques deben extenderse nominativamente y cruzados a nombre de: BCI Seguros
+Generales S.A.
+___________________________
+FIRMA DEL ACEPTANTE
