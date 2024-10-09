@@ -17,7 +17,7 @@ app = Flask(__name__)
 load_dotenv()
 
 # Cargar el documento TXT
-loader = TextLoader("/Users/mariaignaciacovacevich/Desktop/SONDA-CHATBOT/inputs/Poliza.txt")
+loader = TextLoader("inputs/Poliza.txt")
 documents = loader.load()
 
 # Ajustar la segmentación del texto
